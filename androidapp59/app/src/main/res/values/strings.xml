@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="phone_chess">Phone Chess!</string>
+    <string name="title_activity_new_game">NewGameActivity</string>
+    <string name="title_activity_resign">resign</string>
+    <string name="title_activity_load_game">loadGame</string>
+</resources>

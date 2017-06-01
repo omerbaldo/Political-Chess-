@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.psantanakroh.layouts.MainActivity">
+
+
+
+
+
+
+
+    <TableLayout
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:background="@color/colorAccent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_zero"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_one"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_two"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_three"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_four"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_five"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_six"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/zero_seven"
+                tools:ignore="ContentDescription" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/one_zero"
+                tools:ignore="ContentDescription" />
+
+
+
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:id="@+id/one_one"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+                android:id="@+id/one_two"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/one_three"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+                android:id="@+id/one_four"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:id="@+id/one_five"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+
+                android:id="@+id/one_six"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:id="@+id/one_seven"
+                tools:ignore="ContentDescription" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/two_zero"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/two_one"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/two_seven" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_zero" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                android:id="@+id/three_one"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/three_seven" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                tools:ignore="ContentDescription"
+                android:id="@+id/four_zero" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/four_one" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                tools:ignore="ContentDescription"
+                android:id="@+id/four_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                tools:ignore="ContentDescription"
+                android:id="@+id/four_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                tools:ignore="ContentDescription"
+                android:id="@+id/four_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/four_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/four_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/four_seven" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/five_zero" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/five_one" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/five_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/five_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/five_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/five_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/five_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/five_seven" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/six_zero" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/six_one" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/six_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/six_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/six_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/six_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/six_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/six_seven" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/seven_zero" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/seven_one" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/seven_two" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/seven_three" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/seven_four" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/seven_five" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_blue_light"
+
+                android:id="@+id/seven_six" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription,TooManyViews"
+                android:scaleType="fitXY"
+                android:background="@android:color/holo_red_dark"
+                android:id="@+id/seven_seven"
+                />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:text="White Turn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/turn"
+        tools:ignore="HardcodedText"
+        android:textSize="18sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="Prev Turn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/prevTurn"
+        android:layout_above="@+id/turn"
+        android:layout_alignRight="@+id/tableLayout"
+        android:layout_alignEnd="@+id/tableLayout" />
+
+    <Button
+        android:text="Next Turn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nextTurn"
+        android:layout_above="@+id/turn"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Start New Game At This Turn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="36dp"
+        android:id="@+id/newGame"
+        android:layout_above="@+id/prevTurn"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

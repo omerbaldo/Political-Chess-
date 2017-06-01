@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a21d0e42afef7b1e20c83e9a473baa5ec4047c07">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01b6d2a47a860907a0520a5b70dab68b8bbdd479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_01cf68ed38af9abb4424c884559ca2a4b2491768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9eb1a3e96072a943afafa81edff66670f58b9899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_2a01a7bed768b9ac2e4ee35418d76c19e7bd5c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_cc59282586409a8e499ca6fbfff9ab384c1a9d57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_89d3155e79ca7ed7a26cd544a4c3c687b4f8302e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_62c72e4626e513ef3c627050dc004e7199c0b072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_c6c39fa134aeda2d2b0808cd6bcf1e8343bae5d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_d4e87cb4ec0ed2c649ff6beddf238ba0fbfadea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_d10b29b91ce8c9d38d6fba7b5475bcc29da29483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_eb3c5ec5ec24acaef68b93a3a4edfc5d277af039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_398d56e8d577ce42856cd72c78ce106cc19c8767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4714dfe7bb87a88d3fe9ba482bf822283c6d92c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_33db06e1993b5fb28fc4eaf87f45c0f49fe2163b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c05acf51e8f5d092fbd5cf24cd459c4917b3bf4">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_287f30ea3e02962a68208e770fc415d233523a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_2114b86d1bbd9962b3f3ea78900e04eb570ddfeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_adaf5fb6e1df9248b5340a27dcc662101750f6d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_d71378d5717988047bac4dd4c97a48dd2575fd32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_d63887f7cc6912afcca8eb88926faa1b04d6a11f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_990105577b1dfd985f66895bb6c0994b0ba101fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_453bc1dfd499aa67f30a40102bb14720e2983163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/psantanakroh/Desktop/androidapp59/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f323c324c544750dd013cc1c7ab14747129a09ab/classes.dex" />
+    </item>
+
+</items>
